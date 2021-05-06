@@ -3,11 +3,7 @@
 * Android ConstraintLayout
 * Android MediaPlayer
 
-<img src="Screenshot_20210505_231526.png" width="48"> 
-<img src="Screenshot_20210505_231533.png" width="48"> 
-<img src="Screenshot_20210505_231535.png" width="48"> 
-
-![](Screenshot_20210505_231526.png) ![](Screenshot_20210505_231533.png) ![](Screenshot_20210505_231535.png)
+<img src="Screenshot_20210505_231526.png" width="30%"> <img src="Screenshot_20210505_231533.png" width="30%"> <img src="Screenshot_20210505_231535.png" width="30%"> 
 
 ### Reference
 * https://developer.android.com/training/constraint-layout
